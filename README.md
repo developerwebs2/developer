@@ -1,6 +1,6 @@
 # developer
 
-Meu Portifólio
+Sou o Juarez e gosto muito de estudar javascript.
 
 - 🔭 Estou trabalhando em fazer o melhor bot do mundo
 - 🌱 O pai tá aprendendo a andar de camelo
